@@ -32,3 +32,7 @@ i suck at coding, but i do it nonetheless. i mainly code in **fnf psychlua** (an
     </a>
   </p>
 </details>
+
+---
+
+[credits](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/pr2tik1.md)
