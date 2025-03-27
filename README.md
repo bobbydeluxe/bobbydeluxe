@@ -1,16 +1,33 @@
-## Hi there 👋
+![](banner.png)
 
-<!--
-**bobbydeluxe/bobbydeluxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hi! i'm bobby!
 
-Here are some ideas to get you started:
+i'm just some guy who makes [friday night funkin](https://ninja-muffin24.itch.io/funkin) mods for fun!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i suck at coding, but i do it nonetheless. i mainly code in fnf psychlua.
+
+*pronouns: he/him*
+
+---
+
+
+<details open>
+  <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bobbydeluxe&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bobbydeluxe&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
+
+
+<details open> 
+<summary><b>Featured Repos</b></summary>
+<p align = "center">
+  <a href = "https://github.com/bobbydeluxe/bobbydeluxe"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bobbydeluxe&repo=pslice.mint&theme=tokyonight" /></a>
+</p>
+</details>
