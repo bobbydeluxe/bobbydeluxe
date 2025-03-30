@@ -29,6 +29,7 @@ i suck at coding, but i do it nonetheless. i mainly code in **fnf psychlua** (an
   <p align="center">
     <a href="https://github.com/bobbydeluxe/pslice.mint">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobbydeluxe&repo=pslice.mint&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobbydeluxe&repo=fnf-mintport&theme=tokyonight" />
     </a>
   </p>
 </details>
