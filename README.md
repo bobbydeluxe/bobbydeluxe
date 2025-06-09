@@ -41,12 +41,6 @@ to show repos here, just replace the repo name and uncomment the blocks below
 </p>
 -->
 
-<p align="center">
-  <a href="https://github.com/bobbydeluxe/fnf.lumen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobbydeluxe&repo=fnf.lumen&theme=tokyonight" />
-  </a>
-</p>
-
 </details>
 
 ---
