@@ -9,8 +9,8 @@
 - kinda cracked at music production 🎧
 - decent artist, not a great animator tho 🖌️
 - mostly just vibing in the fnf/haxeflixel scene
-- pronouns: he/him (they/them is fine too)
-- timezone: est/edt
+- pronouns: he/him/they/them
+- timezone: est/edt [depends on daylight savings]
 
 ---
 
@@ -40,6 +40,12 @@ to show repos here, just replace the repo name and uncomment the blocks below
   </a>
 </p>
 -->
+
+<p align="center">
+  <a href="https://github.com/bobbydeluxe/lumenFNF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lumenFNF&repo=repo1&theme=tokyonight" />
+  </a>
+</p>
 
 </details>
 
